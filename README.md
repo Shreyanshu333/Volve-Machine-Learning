@@ -2,9 +2,9 @@
 
 **Scope of the Project**:👇
 
-To build prediction models to determine the Bore Oil Volume of a test well.
-To understand the interdependencies of the different variables in the dataset.
-To apply basic concepts of production engineering on real field dataset
+To build prediction models to determine the Bore Oil Volume of a test well.\
+To understand the interdependencies of the different variables in the dataset.\
+To apply basic concepts of production engineering on real field dataset.\
 
 **About Volve**:
 

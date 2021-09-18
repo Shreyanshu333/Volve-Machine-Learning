@@ -27,11 +27,11 @@ Technology and tools wise this project covers,
 
 2) Numpy and Pandas for data cleaning
 
-3) Matplotlib for data visualization
+3) Matplotlib, seaborn for data visualization
 
 4) Sklearn for model building
 
-5) Jupyter notebook as IDE
+5) Google Colab as IDE
 
 
 
